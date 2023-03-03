@@ -1,0 +1,8 @@
+git clone -coller l'url- -dossier-
+cd -dossier-
+
+---- tous les exercices dedans ----
+
+git add --all
+git commit -m "commentaire"
+git push
